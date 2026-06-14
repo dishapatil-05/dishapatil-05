@@ -1,5 +1,8 @@
 # Hi, I'm Disha Patil 👋
-## 💻 Tech Stack
+<br>
+<br>
+
+## 🌱 Currently Learning
 
 📊 Advanced Excel
 
@@ -16,12 +19,3 @@
 🧹 Data Cleaning
 
 ⚙️ Power Query
-<br>
-<br>
-## 🌱 Currently Learning
-
-📊 Advanced Excel
-
-🗄️ SQL
-
-⚡ Power BI
