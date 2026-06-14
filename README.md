@@ -17,13 +17,3 @@
 🧹 Data Cleaning
 
 ⚙️ Power Query
-
-## 🌱 Currently Learning
-
-🐍 Python
-
-📊 DAX
-
-⚙️ Power Query
-
-📈 Advanced Data Visualization
