@@ -35,10 +35,3 @@
 🗄️ SQL
 
 ⚡ Power BI
-<br>
-<br>
-## 📬 Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/disha-patil-2b1017348
-
-📧 Email: immocdishamtpatil@gmail.com
