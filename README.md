@@ -1,4 +1,4 @@
-# Hi, I'm Disha Patil 👋
+# Hi, I'm Disha 👋
 
 ## 💻 Tech Stack
 
