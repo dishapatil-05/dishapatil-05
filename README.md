@@ -1,12 +1,4 @@
 # Hi, I'm Disha Patil 👋
-
-🎓 BCA Graduate
-
-📊 Aspiring Data Analyst
-
-📈 Passionate about Data Analytics & Business Intelligence
-
-🚀 Building Projects & Dashboards
 <br>
 <br>
 ## 💻 Tech Stack
