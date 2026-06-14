@@ -1,6 +1,4 @@
 # Hi, I'm Disha Patil 👋
-
-
 ## 💻 Tech Stack
 
 📊 Advanced Excel
